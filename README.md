@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/badge/Gestión-Trello-0052CC?style=for-the-badge&logo=trello" />
 </p>
 
-<p><em>Proyecto Integrador Final — Aproximación al Campo Laboral
+<p><em>Proyecto Integrador Final 
 Instituto Nuevos Aires · Tecnicatura Superior en Ciencia de Datos e Inteligencia Artificial</p>
 
 </div>
