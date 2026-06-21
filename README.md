@@ -200,6 +200,6 @@ Este proyecto fue desarrollado con fines académicos en el marco de la materia *
 
 **Lucas Matias Sanz**<br/>
 Tecnicatura Superior en Ciencia de Datos e Inteligencia Artificial<br/>
-Instituto Nuevos Aires · 2025
+Instituto Nuevos Aires · 2026
 
 </div>
