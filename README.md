@@ -113,7 +113,7 @@ Sprint 4 — Semana 4
   ✅ Preparación de la presentación
 ```
 
-📋 **Tablero Trello:** `[link al tablero]`
+📋 **Tablero Trello:** [Ver tablero](https://trello.com/b/d1xdMuMV/homepricepredictor)
 
 ---
 
