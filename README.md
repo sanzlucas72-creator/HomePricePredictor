@@ -190,7 +190,7 @@ jupyter notebook notebooks/01_EDA.ipynb
 
 ## 📄 Licencia
 
-Este proyecto fue desarrollado con fines académicos en el marco de la materia **Prácticas Profesionalizantes I** del **Instituto Nuevos Aires**.
+Este proyecto fue desarrollado con fines académicos en el marco de la materia **Aproximación al Campo Laboral** del **Instituto Nuevos Aires**.
 
 ---
 
