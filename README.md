@@ -188,12 +188,6 @@ jupyter notebook notebooks/01_EDA.ipynb
 
 ---
 
-## 📄 Licencia
-
-Este proyecto fue desarrollado con fines académicos en el marco de la materia **Aproximación al Campo Laboral** del **Instituto Nuevos Aires**.
-
----
-
 <div align="center">
 
 **Lucas Matias Sanz**<br/>
