@@ -83,8 +83,6 @@ Este proyecto es de modalidad **individual**. En un contexto profesional real, l
 | **Data Analyst** | Genera visualizaciones y comunica resultados |
 | **Documentador / QA** | Asegura la calidad y documenta el proceso |
 
-> 👨‍💻 **Lucas Matias Sanz** — asume todos los roles en esta simulación individual.
-
 ---
 
 ## 🔄 Metodología Ágil
